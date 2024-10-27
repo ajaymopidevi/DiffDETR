@@ -1,4 +1,4 @@
-**DE⫶TR**: End-to-End Object Detection with Transformers
+<!-- **DE⫶TR**: End-to-End Object Detection with Transformers
 ========
 
 [![Support Ukraine](https://img.shields.io/badge/Support-Ukraine-FFD500?style=flat&labelColor=005BBB)](https://opensource.fb.com/support-ukraine)
@@ -264,4 +264,4 @@ For instance segmentation only, simply remove the `dataset_file` and `coco_panop
 DETR is released under the Apache 2.0 license. Please see the [LICENSE](LICENSE) file for more information.
 
 # Contributing
-We actively welcome your pull requests! Please see [CONTRIBUTING.md](.github/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](.github/CODE_OF_CONDUCT.md) for more info.
+We actively welcome your pull requests! Please see [CONTRIBUTING.md](.github/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](.github/CODE_OF_CONDUCT.md) for more info. -->
